@@ -1,0 +1,1 @@
+Para compilar e gerar um executável atualizado, basta usar o comando "make" (uma vez que você já entrou na pasta através do prompt de comando)
